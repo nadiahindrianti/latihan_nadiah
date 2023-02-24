@@ -1,1 +1,4 @@
-package
+package main
+
+func 
+var
